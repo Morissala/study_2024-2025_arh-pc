@@ -1,7 +1,7 @@
 %include 'in_out.asm'
 
 SECTION .text
-global _start
+GLOBAL _start
 
 _start:
 pop ecx
